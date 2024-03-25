@@ -1,26 +1,3 @@
----
-title: "O que é Devops e seus objetivos"
-categories:
-  - devops
-  - aws
-  - terraform
-  - docker
-  - kubernetes
-  - gitlab
-  - github
-tags:
-  - devops
-  - aws
-  - terraform
-  - docker
-  - kubernetes
-  - gitlab
-  - github
-  - postgresql
-  - linux
-  - git
-  - redis
----
 +++
 author = "Hemershon Silva"
 title = "O que é Devops e seus objetivos"
