@@ -1,7 +1,7 @@
 +++
 author = "Hemershon Silva"
-title = "O que é Devops e seus objetivos"
-date = "2024-03-11"
+title = "O básico de HTML"
+date = "2023-03-11"
 description = "Devops"
 tags = [
   "HTML",
