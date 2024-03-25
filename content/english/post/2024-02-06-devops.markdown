@@ -21,7 +21,23 @@ tags:
   - git
   - redis
 ---
-
++++
+author = "Hemershon Silva"
+title = "Markdown Syntax Guide"
+date = "2019-03-11"
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags = [
+    "markdown",
+    "css",
+    "html",
+]
+categories = [
+    "themes",
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
++++
 
 Olá, estou me aprofundando na área de DevOps e resolvi escrever sobre essa cultura, explicando o que é e quais são suas principais funções dentro da área de tecnologia. Vou começar explicando o que é e qual é o seu objetivo.
 
