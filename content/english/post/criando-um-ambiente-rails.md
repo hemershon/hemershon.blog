@@ -4,13 +4,21 @@ title = "Criando um ambiente Rails RVM"
 date = "2019-03-11"
 description = "Criando um ambiente Rails usando RVM e Postgresql."
 tags = [
-    "markdown",
-    "css",
-    "html",
+     "Rvm",
+    "Rails",
+    "Ruby",
+    "Postgresql",
+    "Redis",
+    "Git",
+    "RubyGems",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "Rails",
+    "Ruby",
+    "Postgresql",
+    "Redis",
+    "Git",
+    "RubyGems",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
