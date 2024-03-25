@@ -23,17 +23,30 @@ tags:
 ---
 +++
 author = "Hemershon Silva"
-title = "Markdown Syntax Guide"
-date = "2019-03-11"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+title = "O que é Devops e seus objetivos"
+date = "2024-03-11"
+description = "Devops"
 tags = [
-    "markdown",
-    "css",
-    "html",
+  "devops",
+  "aws",
+  "terraform",
+  "docker",
+  "kubernetes",
+  "gitlab",
+  "github",
+  "postgresql",
+  "linux",
+  "git",
+  "redis",
 ]
 categories = [
-    "themes",
-    "syntax",
+    "devops",
+    "aws",
+    " terraform",
+    "docker",
+    "kubernetes",
+    "gitlab",
+    "github",
 ]
 series = ["Themes Guide"]
 aliases = ["migrate-from-jekyl"]
