@@ -1,7 +1,7 @@
 +++
 author = "Hemershon Silva"
 title = "O básico de HTML"
-date = "2023-03-11"
+date = "2023-11-03"
 description = "Devops"
 tags = [
   "Web",
