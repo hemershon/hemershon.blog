@@ -4,11 +4,13 @@ title = "O básico de HTML"
 date = "2023-03-11"
 description = "Devops"
 tags = [
+  "Web",
   "HTML",
   "CSS",
   "Iniciante",
 ]
 categories = [
+  "Web",
   "HTML",
   "Iniciante",
 ]
