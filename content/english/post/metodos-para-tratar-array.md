@@ -1,7 +1,7 @@
 +++
 author = "Hemershon Silva"
 title = "Métodos para tratar array"
-date = "2023-20-01"
+date = "2023-01-20"
 description = "Array"
 tags = [
   "Web",
